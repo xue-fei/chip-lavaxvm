@@ -1,7 +1,8 @@
-#include <windows.h>
+//#include <windows.h>
 #include <stdio.h>
 #include <math.h>
 
+#define MAX_PATH 260 
 //#define TextBuffer		0xf000 //故意这样，以检验是否地址相关
 //#define string_stack		0xf200
 //#define patbuf			0xfe00

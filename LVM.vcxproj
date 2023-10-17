@@ -12,7 +12,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
-    <ProjectName>ZVM</ProjectName>
+    <ProjectName>chip-lavaxvm</ProjectName>
     <ProjectGuid>{D91FEE90-354F-48C2-8858-F9CF300FE2E5}</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
